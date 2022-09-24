@@ -1,3 +1,5 @@
+from sort_case_project.palindrome import is_palindrome
+
 import pytest
 
 def test_non_empty_string():
